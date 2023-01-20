@@ -1,0 +1,5 @@
+sport = input ('what is your favorite sport?')
+print('Your favorite sport is...')
+print(sport)
+Answer = input ('why do you like football?')
+print('Cool! Thats a good reason!')
